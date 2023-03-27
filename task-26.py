@@ -12,4 +12,4 @@ def power(a, b):
 
 a = int(input("Введите число A: "))
 b = int(input("Введите степень B: "))
-print(power(a, b))
+print("Число", (a),"в степени",(b),"= ", (power(a, b)))
